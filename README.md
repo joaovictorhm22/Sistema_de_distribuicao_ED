@@ -4,7 +4,7 @@ Projeto da materia POO
 
 ## Tecnologias :toolbox:
 Tecnologias utilizadas no projeto:
-* [C++](https://pt.wikipedia.org/wiki/C%2B%2B)
+* [C](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))
 * Estrutura de dados utilizando lista encadeada
 
 ## Instalação :hammer_and_wrench:
