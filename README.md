@@ -15,7 +15,7 @@ Clone o repositorio do projeto
 ```
 Compile o programa
 ```bash 
-  g++ -o Main.cpp 
+  g++ -o Main.c 
 ```
 Execute o programa
 ```bash 
